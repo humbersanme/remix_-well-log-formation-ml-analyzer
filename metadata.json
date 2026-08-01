@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Well Log Formation ML Analyzer",
+  "description": "Automatic formation log \u0026 top detection for multiple wells using KMeans ML, parameter alignment, and 6-track geological log visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
